@@ -1,2 +1,0 @@
-# Freelancers Off-Ramping Pay
-

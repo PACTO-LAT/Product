@@ -22,8 +22,8 @@ Think of it as the **M-Pesa moment for crypto**: enabling the last mile of adopt
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="use-cases/corner-store-on-ramps.md" %}
-[corner-store-on-ramps.md](use-cases/corner-store-on-ramps.md)
+{% content-ref url="use-cases/local-store-as-on-ramp.md" %}
+[local-store-as-on-ramp.md](use-cases/local-store-as-on-ramp.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
