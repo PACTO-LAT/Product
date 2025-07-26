@@ -1,4 +1,4 @@
-# 📪 Making a post
+# P2P Discovery & Listings
 
 ## Step 1 - Start journalling
 

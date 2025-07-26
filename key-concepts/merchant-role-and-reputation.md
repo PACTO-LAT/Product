@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Merchant Role & Reputation
 
 ## How Projects work
 

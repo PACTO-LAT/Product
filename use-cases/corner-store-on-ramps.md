@@ -1,4 +1,4 @@
-# 🛠️ Getting set up
+# Corner Store On-Ramps
 
 <details>
 
